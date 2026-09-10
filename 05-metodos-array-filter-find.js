@@ -1,5 +1,5 @@
 // ===================================
-// 4. DESESTRUTURAÇÃO (DESTRUCTURING) DE ARRAYS
+// 5. METODOS ARRAY: FILTER E FIND
 // ===================================
 
 // --- FILTER (seleciona TODOS que atendem a uma condição) e FIND (seleciona o PRIMEIRO que atende a uma condição) ---
